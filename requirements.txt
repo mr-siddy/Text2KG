@@ -1,0 +1,4 @@
+torch>=2.0
+transformers>=4.30
+sentencepiece  # if using a tokenizer that needs it
+tqdm
